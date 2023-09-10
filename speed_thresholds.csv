@@ -1,0 +1,17 @@
+Alert,TimeRange,Safe Speed Threshold (km/h),Danger Speed Threshold (km/h)
+cas_fcw,Afternoon,38.32867132867133,55.8
+cas_fcw,Evening,34.417582417582416,56.900000000000006
+cas_fcw,Morning,36.60836501901141,55.80000000000001
+cas_fcw,Night,41.5,41.9
+cas_hmw,Afternoon,38.32504012841091,56.0
+cas_hmw,Evening,32.30643487285937,53.0
+cas_hmw,Morning,36.83297219212712,54.30000000000018
+cas_hmw,Night,29.09090909090909,55.400000000000006
+cas_ldw,Afternoon,50.094690265486726,58.0
+cas_ldw,Evening,50.36653895274585,58.0
+cas_ldw,Morning,51.436164383561646,58.0
+cas_ldw,Night,50.188235294117646,58.0
+cas_pcw,Afternoon,13.655367231638419,33.0
+cas_pcw,Evening,16.694915254237287,30.0
+cas_pcw,Morning,19.60408163265306,36.0
+cas_pcw,Night,39.0,47.8
